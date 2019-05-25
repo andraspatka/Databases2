@@ -11,13 +11,13 @@ INSERT INTO Mufajok VALUES (6,'drama');
 ----------------------------------------------------------------------------
 -- Filmek
 ----------------------------------------------------------------------------
-INSERT INTO Filmek VALUES (1,'Nemo nyomaban','Walt Disney Pictures',3);
-INSERT INTO Filmek VALUES (2,'Transformers','DreamWorks SKG',2);
-INSERT INTO Filmek VALUES (3,'White noise','Brightlight Pictures',5);
-INSERT INTO Filmek VALUES (4,'Finding Neverland','Miramax Films',1);
-INSERT INTO Filmek VALUES (5,'Ket het mulva orokke','Castle Rock Entertainment',1);
-INSERT INTO Filmek VALUES (6,'A remeny rabjai','Castle Rock Entertainment',6);
-INSERT INTO Filmek VALUES (7,'Pillango hatas','BenderSpink',5);
+INSERT INTO Filmek VALUES (1,'Nemo nyomaban','Walt Disney Pictures',3,0);
+INSERT INTO Filmek VALUES (2,'Transformers','DreamWorks SKG',2,0);
+INSERT INTO Filmek VALUES (3,'White noise','Brightlight Pictures',5,0);
+INSERT INTO Filmek VALUES (4,'Finding Neverland','Miramax Films',1,0);
+INSERT INTO Filmek VALUES (5,'Ket het mulva orokke','Castle Rock Entertainment',1,0);
+INSERT INTO Filmek VALUES (6,'A remeny rabjai','Castle Rock Entertainment',6,0);
+INSERT INTO Filmek VALUES (7,'Pillango hatas','BenderSpink',5,0);
 
 ----------------------------------------------------------------------------
 -- DVDk

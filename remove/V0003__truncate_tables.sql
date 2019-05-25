@@ -6,3 +6,5 @@ TRUNCATE TABLE Mufajok;
 TRUNCATE TABLE DVDk;
 TRUNCATE TABLE Kolcsonzesek_archive;
 TRUNCATE TABLE Kolcsonzok_archive;
+TRUNCATE TABLE Kritikak;
+TRUNCATE TABLE Kritikusok;
