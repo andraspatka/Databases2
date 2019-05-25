@@ -36,3 +36,20 @@ CREATE TABLE Kolcsonzesek(
  Ertek int,
  Primary key(KID, DVDID, DatumKi)
 );
+
+CREATE TABLE Kolcsonzok_archive(
+    KArchiveID number(3),
+    Nev varchar2(30),
+    Cim varchar2(30),
+    Telefon varchar2(10),
+    Primary key(KArchiveID)
+);
+
+CREATE TABLE Kolcsonzesek_archive(
+    KArchiveID number(3) references Kolcsonzok_archive(KArchiveID),
+    FCim varchar2(30),
+    Studio varchar2(30),
+    MufajNev varchar2(30),
+    DatumKi date,
+    DatumVissza date
+);

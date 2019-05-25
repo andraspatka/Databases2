@@ -1,1 +1,1 @@
-DROP PACKAGE rent.kolcsonzesekPackage;
+DROP PACKAGE rent.kolcsonozPackage;

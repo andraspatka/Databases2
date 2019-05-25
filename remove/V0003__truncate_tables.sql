@@ -4,3 +4,5 @@ TRUNCATE TABLE FilmekDVDn;
 TRUNCATE TABLE Filmek;
 TRUNCATE TABLE Mufajok;
 TRUNCATE TABLE DVDk;
+TRUNCATE TABLE Kolcsonzesek_archive;
+TRUNCATE TABLE Kolcsonzok_archive;

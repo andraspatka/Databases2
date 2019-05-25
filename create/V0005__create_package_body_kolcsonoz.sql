@@ -1,5 +1,5 @@
 --Implementacio
-create or replace package body kolcsonzesekPackage as
+create or replace package body kolcsonozPackage as
   --Elvegez egy kolcsonzest az elejetol a vegeig
   function kolcsonoz(
     pFilmID Filmek.FilmId%TYPE,
@@ -17,6 +17,8 @@ create or replace package body kolcsonzesekPackage as
     type tFilmIdk is table of Filmek.FilmId%TYPE;
     lFilmIdk tFilmIdk;
   begin
+    -- Savepoint letrehozasa
+    savepoint kolcsonozSavePoint;
     select count(*) into lKolcsonzoCount from kolcsonzo where nev = pKolcsonzoNev;
     if (lKolcsonzoCount = 0) then --Ha nincs mar ilyen kliens, beszurja
       beszurKolcsonzo(pKolcsonzoNev, pKCim, pKTel, lKolcsonzoId);
@@ -46,6 +48,11 @@ create or replace package body kolcsonzesekPackage as
       beszurKolcsonzes(lKolcsonzoId, lSzabadDvd, pDatumKi, pDatumVissza);
       return 0;
     end if;
+    -- Valtoztatasok elmentese
+    commit;
+    exception when others then
+      -- Rollback a savepointra
+      rollback to savepoint kolcsonozSavePoint;
   end kolcsonoz;
 
   --Megnezi, hogy ket datumintervallum metszi-e egymast. 1 ha igen, 0 ha nem.
@@ -79,7 +86,7 @@ create or replace package body kolcsonzesekPackage as
       select dvdid from filmekdvdn where filmid = pFilmId
       minus
       select dvdid from kolcsonzesek k 
-      where kolcsonzesekPackage.datumMetszet(k.datumki, k.datumvissza, pDatumKi, pDatumVissza)=1 and dvdId in (select dvdid from filmekdvdn where filmid = pFilmId)
+      where kolcsonozPackage.datumMetszet(k.datumki, k.datumvissza, pDatumKi, pDatumVissza)=1 and dvdId in (select dvdid from filmekdvdn where filmid = pFilmId)
     );
     if (lSzabadDvdk.count = 0) then
       return -1;
@@ -114,4 +121,4 @@ create or replace package body kolcsonzesekPackage as
     insert into kolcsonzesek values(pKId, pDvdId, pDatumKi, pDatumVissza, lErtek);
     dbms_output.put_line('Sikeresen beszurt a kolcsonzes tablaba');
   end beszurKolcsonzes;
-end kolcsonzesekPackage;
+end kolcsonozPackage;;
