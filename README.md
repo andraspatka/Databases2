@@ -5,7 +5,14 @@ Adatbázis II projekt
 
  - Package neve: kolcsonozPackage
  - Leírás: Egy DVD kikölcsönzése.
- - Paraméterek: pFilmId, pKolcsonzoNev, pKCim, pKTel, pDatumKi, pDatumVissza, outLehetsegesDVD.
+ - Paraméterek: 
+   - pFilmId
+   - pKolcsonzoNev
+   - pKCim
+   - pKTel
+   - pDatumKi
+   - pDatumVissza
+   - outLehetsegesDVD.
  - Visszatérítési érték: 
     - 0, ha ki lehet kölcsönözni azt amit akart.
     - -1, ha nem lehet kikölcsönözni azt amit akart. Ekkor:
@@ -16,23 +23,26 @@ Adatbázis II projekt
 
  - Package neve: rmKolcsonzoPackage
  - Leírás: Kölcsönző archiválása és kitörlése az adatbázisból. Megnézi, hogy léteznek-e az archiváló táblák, hogyha igen:
+   - beszúrja ide a kölcsönző adatait
    - beszúrja ide a kitörlendő kölcsönzőhöz tartozó kölcsönzéseket
    - kitörli a kölcsönzéseket az adatbázisból
-   - beszúrja ide a kölcsönző adatait
    - kitörli az adatbázisból a kölcsönzőt.
   - Visszatérítési értkékek:
-   - 1, ha sikerült a törlés
-   - 0, ha nem sikerült a törlés
+    - 1, ha sikerült a törlés
+    - 0, ha nem sikerült a törlés
  - Paraméterek: pKId
-select * from tab where tname = 'KOLCSONZO';
-
-eloszor be kell szurni a kolcsonzot, majd a kolcsonzest, majd letorolni a kolcsonzest es utan a kolcsonzot.
 
 ## Package 3 
 
  - package neve: kritikaPackage
- - Leírás: Hozzáad egy kritikát az adatbázishoz. Ha a kritikus még nem létezik, akkor hozzáadja őt is az adatbázishoz. Ellenőrzi, hogyha a kritikus már létezik, akkor van-e már kritikája az adott filmre, mivel egy adott filmre egy kritikus csakis egy kritikát tehet.
- - Paraméterek: pNev, pCim, pTelefon, pFilmId, pKritika, pErtekeles
+ - Leírás: Hozzáad egy kritikát az adatbázishoz. 
+   - Ha a kritikus még nem létezik, akkor hozzáadja őt is az adatbázishoz. Ellenőrzi, hogyha a kritikus már létezik, akkor van-e már kritikája az adott filmre, mivel egy adott filmre egy kritikus csakis egy kritikát tehet.
+ - Paraméterek: 
+   - pNev
+   - pTelefon
+   - pFilmId
+   - pKritika
+   - pErtekeles
 
 ## Trigger 1
 

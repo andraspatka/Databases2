@@ -8,7 +8,7 @@ CREATE TABLE Filmek(
  FCim varchar2(30),
  Studio varchar2(30),
  MufajID number(3) references Mufajok(MufajID),
- Ertekeles number(3)
+ Ertekeles number(3,1)
 );
 
 CREATE TABLE DVDk(
@@ -64,5 +64,5 @@ CREATE TABLE Kritikak(
     KritikusId number(3) references Kritikusok(KritikusId),
     Kritika varchar2(500),
     FilmId number(3) references Filmek(FilmId),
-    Ertekeles number(3)
+    Ertekeles number(3,1)
 );
