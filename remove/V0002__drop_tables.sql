@@ -1,0 +1,6 @@
+DROP TABLE Kolcsonzesek;
+DROP TABLE Kolcsonzo;
+DROP TABLE FilmekDVDn;
+DROP TABLE Filmek;
+DROP TABLE Mufajok;
+DROP TABLE DVDk;
