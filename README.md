@@ -15,13 +15,18 @@ Adatbázis II projekt
 ## Package 2 - Kölcsönző eltávolítása
 
  - Package neve: rmKolcsonzoPackage
- - Leírás: Kölcsönző archiválása és kitörlélse az adatbázisból. Megnézi, hogy léteznek-e az archiváló táblák, hogyha igen:
+ - Leírás: Kölcsönző archiválása és kitörlése az adatbázisból. Megnézi, hogy léteznek-e az archiváló táblák, hogyha igen:
    - beszúrja ide a kitörlendő kölcsönzőhöz tartozó kölcsönzéseket
    - kitörli a kölcsönzéseket az adatbázisból
    - beszúrja ide a kölcsönző adatait
    - kitörli az adatbázisból a kölcsönzőt.
+  - Visszatérítési értkékek:
+   - 1, ha sikerült a törlés
+   - 0, ha nem sikerült a törlés
  - Paraméterek: pKId
 select * from tab where tname = 'KOLCSONZO';
+
+eloszor be kell szurni a kolcsonzot, majd a kolcsonzest, majd letorolni a kolcsonzest es utan a kolcsonzot.
 
 ## Package 3 
 

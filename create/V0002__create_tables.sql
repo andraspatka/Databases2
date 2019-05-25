@@ -48,9 +48,7 @@ CREATE TABLE Kolcsonzok_archive(
 
 CREATE TABLE Kolcsonzesek_archive(
     KArchiveID number(3) references Kolcsonzok_archive(KArchiveID),
-    FCim varchar2(30),
-    Studio varchar2(30),
-    MufajNev varchar2(30),
+    DvdId number(3) references DVDk(DvdId),
     DatumKi date,
     DatumVissza date
 );
