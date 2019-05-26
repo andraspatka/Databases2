@@ -50,4 +50,4 @@ Amikor egy kritikus bevezet egy kritikát, akkor frissítsük a film össz ért�
 
 ## Trigger 2
 
-Ha egy filmnek jobb, mint 4.5-ös kritikája van, akkor minden DVD-nek felvisszük az árát 10%-al, amelyen az adott film van.
+Ha egy filmnek jobb, mint 4-es kritikája van, akkor minden DVD-t megdrágítunk 1-el, amelyen az adott film van.
