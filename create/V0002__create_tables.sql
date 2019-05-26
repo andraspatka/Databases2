@@ -7,7 +7,8 @@ CREATE TABLE Filmek(
  FilmID number(3)  primary key,
  FCim varchar2(30),
  Studio varchar2(30),
- MufajID number(3) references Mufajok(MufajID)
+ MufajID number(3) references Mufajok(MufajID),
+ Ertekeles number(3,1)
 );
 
 CREATE TABLE DVDk(
@@ -35,4 +36,33 @@ CREATE TABLE Kolcsonzesek(
  DatumVissza date, 
  Ertek int,
  Primary key(KID, DVDID, DatumKi)
+);
+
+CREATE TABLE Kolcsonzok_archive(
+    KArchiveID number(3),
+    Nev varchar2(30),
+    Cim varchar2(30),
+    Telefon varchar2(10),
+    Primary key(KArchiveID)
+);
+
+CREATE TABLE Kolcsonzesek_archive(
+    KArchiveID number(3) references Kolcsonzok_archive(KArchiveID),
+    DvdId number(3) references DVDk(DvdId),
+    DatumKi date,
+    DatumVissza date
+);
+
+CREATE TABLE Kritikusok(
+    KritikusId number(3) primary key,
+    Knev varchar2(20),
+    KTelefon varchar2(10)
+);
+
+CREATE TABLE Kritikak(
+    KritikaId number(3) primary key,
+    KritikusId number(3) references Kritikusok(KritikusId),
+    Kritika varchar2(500),
+    FilmId number(3) references Filmek(FilmId),
+    Ertekeles number(3,1)
 );

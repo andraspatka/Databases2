@@ -1,5 +1,5 @@
 --Specifikacio
-create or replace package kolcsonzesekPackage as
+create or replace package kolcsonozPackage as
   --Elvegez egy kolcsonzest az elejetol a vegeig
   function kolcsonoz(
     pFilmID Filmek.FilmId%TYPE,
@@ -37,4 +37,4 @@ create or replace package kolcsonzesekPackage as
     pDatumKi Kolcsonzesek.DatumKi%TYPE,
     pDatumVissza Kolcsonzesek.DatumVissza%TYPE
   );
-end kolcsonzesekPackage;
+end kolcsonozPackage;

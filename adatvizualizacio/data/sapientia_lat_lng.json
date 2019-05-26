@@ -1,0 +1,2113 @@
+[{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a17d4"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a17d6"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a18bf"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1954"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a19e4"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1a03"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1b09"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1ccb"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1d4b"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1dbb"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1e7e"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1ecb"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a1f0e"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a207b"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a225f"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2306"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a230d"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2340"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2377"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2432"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a24cc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2574"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2599"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a265c"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2710"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a28bf"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a28e0"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2c1d"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2c6f"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2e19"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a2f71"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3182"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3202"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3235"
+	},
+	"livesin": "barot",
+	"lat": 46.07,
+	"lng": 25.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a33d9"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a33fa"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a34f0"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3541"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3608"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a36b0"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3734"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3920"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a39b1"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3b42"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3b63"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3b8d"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3cbb"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3d79"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a3f94"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4113"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4125"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a41fa"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a434c"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4383"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a45c0"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4690"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a469e"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a472d"
+	},
+	"livesin": "parajd",
+	"lat": 46.55,
+	"lng": 25.12
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a485b"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4907"
+	},
+	"livesin": "parajd",
+	"lat": 46.55,
+	"lng": 25.12
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a493e"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a498d"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a49df"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4a84"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4a90"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4a92"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4af1"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4b49"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4bfe"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4c03"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4e79"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a4fe2"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5231"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a52a5"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a52ea"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a545e"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5473"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a55f3"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a563a"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5a28"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5a8f"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5ccc"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5d07"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5efd"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5f1b"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a5f90"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6039"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6049"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6055"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6058"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6174"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a623c"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a62a0"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a62b8"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a62b9"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a62da"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6358"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6383"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6394"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a63dd"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6417"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a65aa"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6607"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6621"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a66e1"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6bea"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6c41"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6cdd"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6d0c"
+	},
+	"livesin": "parajd",
+	"lat": 46.55,
+	"lng": 25.12
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6d31"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6e34"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6e3e"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6eaa"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6efe"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6f15"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a6f68"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a70ec"
+	},
+	"livesin": "barot",
+	"lat": 46.07,
+	"lng": 25.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a713d"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7217"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a721b"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a72c9"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7436"
+	},
+	"livesin": "barot",
+	"lat": 46.07,
+	"lng": 25.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7515"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a761f"
+	},
+	"livesin": "parajd",
+	"lat": 46.55,
+	"lng": 25.12
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7632"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7688"
+	},
+	"livesin": "toplita",
+	"lat": 46.92,
+	"lng": 25.35
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a76d1"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a770a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7790"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7928"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7967"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a79b2"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a79b8"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7ed0"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7edd"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a7f5e"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a808c"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8186"
+	},
+	"livesin": "barot",
+	"lat": 46.07,
+	"lng": 25.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a81f8"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8250"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a82b9"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8308"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a835d"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a843b"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a84e2"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a851b"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a85dc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8709"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a875c"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a87b2"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8896"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a88cd"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8962"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8adc"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8b5d"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8bbd"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8dd4"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a8df2"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9053"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9098"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a912a"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a91fc"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a92f3"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9499"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9574"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9676"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a968e"
+	},
+	"livesin": "szovata",
+	"lat": 46.59,
+	"lng": 25.07
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a969e"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9734"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9786"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a97ed"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a98ec"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a99ce"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9a2a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9a83"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9c23"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9ce8"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9e9f"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9eb5"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9efe"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9f55"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9f87"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9fa2"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199a9fba"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa0dc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa11b"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa2c3"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa3a0"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa3ea"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa45b"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa475"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa515"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa579"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa660"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aa726"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aabea"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aae3b"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aae76"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aaec5"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab1a5"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab339"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab3e6"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab489"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab4e7"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab55e"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab604"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab6bc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab6ee"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab6fb"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab702"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab724"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab73c"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab756"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab77a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab7c1"
+	},
+	"livesin": "keresztur",
+	"lat": 46.29,
+	"lng": 25.04
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab8fc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab969"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ab9ed"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199abb9d"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199abc24"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199abcba"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199abdd5"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac0cb"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac1da"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac1dc"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac2c5"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac2e4"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac36d"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac387"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac3ac"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac3ff"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac452"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac5e3"
+	},
+	"livesin": "vlahica",
+	"lat": 46.33,
+	"lng": 25.51
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac622"
+	},
+	"livesin": "kolozsvar",
+	"lat": 46.77,
+	"lng": 23.6
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac648"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac704"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac772"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac8ba"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac8da"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac8dd"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac8e7"
+	},
+	"livesin": "parajd",
+	"lat": 46.55,
+	"lng": 25.12
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac903"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac90e"
+	},
+	"livesin": "toplita",
+	"lat": 46.92,
+	"lng": 25.35
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac973"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ac9c9"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199aca6f"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acafe"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acb45"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acbe1"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199accc4"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acd3a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ace3b"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acefb"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acf41"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199acf8a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad01a"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad118"
+	},
+	"livesin": "regen",
+	"lat": 46.78,
+	"lng": 24.7
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad14f"
+	},
+	"livesin": "gyergyo",
+	"lat": 46.72,
+	"lng": 25.59
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad430"
+	},
+	"livesin": "szentgyorgy",
+	"lat": 45.86,
+	"lng": 25.78
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad513"
+	},
+	"livesin": "csikszereda",
+	"lat": 46.36,
+	"lng": 25.8
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad573"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad590"
+	},
+	"livesin": "udvarhely",
+	"lat": 46.3,
+	"lng": 25.29
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad5e5"
+	},
+	"livesin": "marosvasarhely",
+	"lng": 24.55,
+	"lat": 46.54
+},
+{
+	"_id": {
+		"$oid": "5ce59576b24a92b2199ad71f"
+	},
+	"livesin": "kezdi",
+	"lat": 46.0,
+	"lng": 26.13
+}]
+

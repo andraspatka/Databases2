@@ -1,1 +1,0 @@
-DROP PACKAGE rent.kolcsonzesekPackage;
