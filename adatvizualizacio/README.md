@@ -565,9 +565,9 @@ mongoexport -d szekelydata -c sapientia_lat_lng_quant -o sapientia_lat_lng_quant
 ```
 
 Buborékos:
-![Buborékos](res/bubbles.png)
+![Buborékos](https://github.com/andraspatka/Databases2/blob/master/adatvizualizacio/res/bubbles.PNG)
 
 Térképes:
-![Térképes](res/terkep.png)
+![Térképes](https://github.com/andraspatka/Databases2/blob/master/adatvizualizacio/res/terkep.PNG)
 
 Az adatvizualizáció megnézhető az [alábbi link-en.](https://public.tableau.com/profile/zsolt.andr.s.patka#!/vizhome/Sapientia-megmarads/Sheet2?publish=yes)
